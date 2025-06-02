@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ITI/25-MLops/labs/MLOps-Course-Labs/MLOPs-Backend/mlruns/561892226962027439/6c7a23bb5f344ccca7992d4b0212d006/artifacts
+end_time: 1748874330187
+entry_point_name: ''
+experiment_id: '561892226962027439'
+lifecycle_stage: active
+run_id: 6c7a23bb5f344ccca7992d4b0212d006
+run_name: unleashed-stork-390
+run_uuid: 6c7a23bb5f344ccca7992d4b0212d006
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748874330144
+status: 3
+tags: []
+user_id: NEW TECH

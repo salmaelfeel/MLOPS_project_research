@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/ITI/25-MLops/labs/MLOps-Course-Labs/MLOPs-Backend/mlruns/561892226962027439/ccff3b2c796d46a2bc7d2d59b5456547/artifacts
+end_time: 1748874330133
+entry_point_name: ''
+experiment_id: '561892226962027439'
+lifecycle_stage: active
+run_id: ccff3b2c796d46a2bc7d2d59b5456547
+run_name: tasteful-toad-698
+run_uuid: ccff3b2c796d46a2bc7d2d59b5456547
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748874324240
+status: 3
+tags: []
+user_id: NEW TECH
